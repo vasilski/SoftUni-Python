@@ -1,6 +1,6 @@
-firstNum = int(input())
-secondNum = int(input())
+side_a = int(input())
+side_b = int(input())
 
-result = firstNum * secondNum
+area = side_a * side_b
 
-print(result)
+print(area)
